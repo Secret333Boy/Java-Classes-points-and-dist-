@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Classes (Objects) - Points and distance:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Classes__Objects____Points_and_distance_jar</output-path>
+    <root id="archive" name="Classes (Objects) - Points and distance.jar">
+      <element id="module-output" name="Classes (Objects) - Points and distance" />
+    </root>
+  </artifact>
+</component>
